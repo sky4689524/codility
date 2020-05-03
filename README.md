@@ -1,6 +1,8 @@
 # C++ Codility Code Challenges
 
-This repository contains the code challenges for [codility](https://www.codility.com/) in C++. 
+This repository contains the code challenges for [codility](https://www.codility.com/) in C++.
+
+All codes under the link are passed 100% in codility verficiation.
 
 **Lesson 1 - [Iterations](https://app.codility.com/programmers/lessons/1-iterations/)**
 
