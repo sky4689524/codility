@@ -103,6 +103,7 @@ All codes under the link are passed 100% in codility verficiation.
 **Lesson 17 - [Dynamic programming](https://app.codility.com/programmers/lessons/17-dynamic_programming/)**
 
  - [MinAbsSum](https://github.com/sky4689524/codility/blob/master/Lesson17_DynamicProgramming/MinAbsSum.cpp)
+ - [NumberSolitaire](https://github.com/sky4689524/codility/blob/master/Lesson17_DynamicProgramming/NumberSolitaire.cpp)
  
 
  **Lesson 99 - [Future training](https://app.codility.com/programmers/lessons/99-future_training/)**
